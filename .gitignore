@@ -1,2 +1,4 @@
 .DS_Store
 nucampsiteServer/node_modules
+node-mongo/node_modules
+mongodb/
