@@ -3,3 +3,4 @@ nucampsiteServer/node_modules
 node-mongo/node_modules
 mongodb/
 node-mongoose/node_modules
+nucampsiteServer/sessions
