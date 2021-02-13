@@ -47,6 +47,8 @@ app.use(
     store: new FileStore(),
   })
 );
+app.use("/", indexRouter);
+app.use("/users", usersRouter);
 
 function auth(req, res, next) {
   console.log(req.session);
