@@ -4,3 +4,5 @@ node-mongo/node_modules
 mongodb/
 node-mongoose/node_modules
 nucampsiteServer/sessions
+nucampsiteServer/bin/server.cert
+nucampsiteServer/bin/server.key
